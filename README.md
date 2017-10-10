@@ -8,4 +8,4 @@ This example shows how to:
 * print those metrics
 * save custom training metrics for visualization in Tensorboard.
 
-For reproducibility, the MNIST dataset is used. Since this example only shows the implementation of a basic deep learning model, no convolutional layers are used (although these would probably improve performance). They can easily be implemented by changing the 'basic' neural layers to convolutional layers in the model function.   
+For reproducibility, the MNIST dataset is used. Since this example only shows the implementation of a basic deep learning model, no convolutional layers are used (although these would probably improve performance on this specific task). They can easily be implemented by changing the 'basic' neural layers to convolutional layers in the model function.   
