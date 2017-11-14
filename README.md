@@ -1,5 +1,5 @@
 # Tensorflow-Example
-An implementation of a custom model function using deep learning in combination with the Estimator API, using Google's Tensorflow. The model is applied to the MNIST image classification problem. 
+This project contains an implementation of a custom model function using deep learning in combination with the Estimator API, using Google's Tensorflow. The model is applied to the MNIST image classification problem. 
 
 This example shows how to:
 * build a custom deep learning model function with the Estimator API
